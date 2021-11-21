@@ -1,0 +1,7 @@
+laundry\-96 module
+==================
+
+.. automodule:: laundry-96
+   :members:
+   :undoc-members:
+   :show-inheritance:
